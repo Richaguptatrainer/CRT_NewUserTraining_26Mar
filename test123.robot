@@ -1,1 +1,1 @@
-Line 1 - adde din CRT
+Line 1 - not added in CRT
